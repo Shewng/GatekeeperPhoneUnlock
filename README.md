@@ -4,6 +4,8 @@ Created by Katie Tieu and Sam Wong
 
 This program is a touch-based design alternative to "slide to unlock". Users must choose from five different actions to get the phone gatekeeper to let them in (i.e. unlock the phone).
 
+<p align="center"><img width="250" height="528" src="https://i.imgur.com/lhd9cP1.png?1"></p>
+
 # Run
 1. Clone/download the repository
 2. Open the project in Android Studio
