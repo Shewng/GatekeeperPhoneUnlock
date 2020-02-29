@@ -1,5 +1,6 @@
 # GatekeeperPhoneUnlock
 CPSC 581 Winter 2020 Project 1
+
 Created by Katie Tieu and Sam Wong
 
 This program is a touch-based design alternative to "slide to unlock". Users must choose from five different actions to get the phone gatekeeper to let them in (i.e. unlock the phone).
