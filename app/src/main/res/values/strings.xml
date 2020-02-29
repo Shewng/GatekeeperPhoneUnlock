@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gatekeeper Phone Unlock</string>
+
+    <string name="speech">Speech Bubble</string>
+    <string name="sheep">Sheep</string>
+    <string name="fight">Fight</string>
+    <string name="hug">Hug</string>
+    <string name="treat">Treat</string>
+    <string name="shears">Shears</string>
+    <string name="sing">Sing</string>
+
+    <string name="attackSheep">Sheep attacking</string>
+
+    <string name="reset">Reset and try again</string>
+    <string name="timer"> </string>
+</resources>
